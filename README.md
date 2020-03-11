@@ -1,1 +1,1 @@
-# chinstudio.hithub.io
+# chinstudio.github.io
